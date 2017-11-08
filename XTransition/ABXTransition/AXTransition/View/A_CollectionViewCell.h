@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  A_CollectionViewCell.h
 //  XTransition
 //
 //  Created by 许宇航 on 2017/11/6.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface A_CollectionViewCell : UICollectionViewCell
 
 @end
-
