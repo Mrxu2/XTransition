@@ -71,6 +71,7 @@
 		FCA12ECC1FB2DD3E0091A720 /* UIView+XBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+XBlock.h"; sourceTree = "<group>"; };
 		FCA12ECE1FB2DE9A0091A720 /* UIView+StringTag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+StringTag.h"; sourceTree = "<group>"; };
 		FCA12ECF1FB2DE9A0091A720 /* UIView+StringTag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+StringTag.m"; sourceTree = "<group>"; };
+		FCBDF2F71FB2EF9D0029FB7C /* github2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = github2.gif; sourceTree = "<group>"; };
 		FCDE7BEB1FB0110900E05FD7 /* XTransition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XTransition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCDE7BEE1FB0110900E05FD7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FCDE7BEF1FB0110900E05FD7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -161,6 +162,7 @@
 		FCDE7BE21FB0110900E05FD7 = {
 			isa = PBXGroup;
 			children = (
+				FCBDF2F71FB2EF9D0029FB7C /* github2.gif */,
 				FC2EC1811FB2ED9400A2BA97 /* github1-HD.gif */,
 				FCDE7BED1FB0110900E05FD7 /* XTransition */,
 				FCDE7C061FB0110A00E05FD7 /* XTransitionTests */,
