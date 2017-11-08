@@ -2,6 +2,7 @@
 # 这是一个在控制器之间切换时，使A控制器的view在过度到B控制器时以动画的形式平稳的展示。
   ![image](https://github.com/Mrxu2/XTransition/blob/master/github2.gif ) 
 # UINavigationControllerDelegate - 使用方法
+```java
 - (id <UIViewControllerAnimatedTransitioning>)navigationController:(UINavigationController *)navigationController
                                    animationControllerForOperation:(UINavigationControllerOperation)operation
                                                 fromViewController:(UIViewController *)fromVC
@@ -13,6 +14,8 @@
         return nil;
     }
 }
+```
+
 # 注意格式
  X_Transition *inverseTransition = [X_Transition transitionWithViewArray:@[@[@"ACell",@"ACell"]]];
  
