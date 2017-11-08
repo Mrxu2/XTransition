@@ -1,6 +1,6 @@
 # XTransition
 # 这是一个在控制器之间切换时，使A控制器的view在过度到B控制器时以动画的形式平稳的展示。
-![img](https://github.com/Mrxu2/XTransition/blob/master/github1-HD.gif)
+![img](https://github.com/Mrxu2/XTransition/blob/master/github2.gif)
   
 # UINavigationControllerDelegate - 使用方法
 - (id <UIViewControllerAnimatedTransitioning>)navigationController:(UINavigationController *)navigationController
