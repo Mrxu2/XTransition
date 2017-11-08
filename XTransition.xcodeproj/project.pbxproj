@@ -64,6 +64,7 @@
 		FC2EC17C1FB2E1B800A2BA97 /* NSString+StringNull.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+StringNull.m"; sourceTree = "<group>"; };
 		FC2EC17E1FB2E1F700A2BA97 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		FC2EC17F1FB2E21A00A2BA97 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		FC2EC1811FB2ED9400A2BA97 /* github1-HD.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "github1-HD.gif"; sourceTree = "<group>"; };
 		FC58D23B1FB2E01300D00111 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
 		FC58D23C1FB2E01300D00111 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		FCA12ECB1FB2DD3E0091A720 /* UIView+XBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+XBlock.m"; sourceTree = "<group>"; };
@@ -160,6 +161,7 @@
 		FCDE7BE21FB0110900E05FD7 = {
 			isa = PBXGroup;
 			children = (
+				FC2EC1811FB2ED9400A2BA97 /* github1-HD.gif */,
 				FCDE7BED1FB0110900E05FD7 /* XTransition */,
 				FCDE7C061FB0110A00E05FD7 /* XTransitionTests */,
 				FCDE7C111FB0110A00E05FD7 /* XTransitionUITests */,
